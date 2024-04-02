@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "802503001020",
+    "project_id": "asmaroperations",
+    "storage_bucket": "asmaroperations.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:802503001020:android:2f3e4d1015e48b6a9b61b9",
+        "android_client_info": {
+          "package_name": "com.asmaroperations"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpwaQrDaRBPUiPbOFaU405xbN7ophN_Rc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
